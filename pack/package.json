@@ -1,5 +1,5 @@
 {
- "name": "Promesse",
+ "name": "promesse",
  "description": "Emily's Promise/A+",
  "version": "1.3.1",
  "homepage": "https://github.com/flams/emily",
@@ -10,7 +10,8 @@
  "files": [
  	"module.js",
  	"LICENSE",
- 	"main.js"
+ 	"main.js",
+ 	"tests.js"
  ],
  "author": "Olivier Scherrer <pode.fr@gmail.com>",
  "dependencies": {
