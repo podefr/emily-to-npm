@@ -26,8 +26,7 @@ https://github.com/flams/emily/wiki/Promise
 Testing Promesse
 ==================
 
-
-Promesse can be tested against Domenic Denicola's test suite.
+Promesse can be tested against Domenic Denicola's test suite: https://github.com/promises-aplus/promises-tests
 
 ```bash
 npm test promesse
